@@ -1,0 +1,16 @@
+Script started on 2024-06-24 01:26:44+01:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="93" LINES="24"]
+[1m[7m%[27m[1m[0m                                                                                             ]2;overlord@Blasterx7:~/Ressources/cours/Devops-docker]1;..Devops-docker]7;file://Blasterx7/home/overlord/Ressources/cours/Devops-docker\[0m[27m[24m[J
+~/Ressources/cours/Devops-docker
+[32m☺[39m  [K[75C[37m  [01;30mmain [37m8902b67[00m[00m[39m[89D[?1h=[?2004hddocker ps ( -a a && docker image ls[?1l>[?2004l
+]2;docker ps -a && docker image ls]1;dockerCONTAINER ID   IMAGE     COMMAND                  CREATED          STATUS                      PORTS     NAMES
+384f0b6910c7   nginx     "/docker-entrypoint.…"   22 minutes ago   Exited (0) 21 minutes ago             clever_yalow
+7e26b68e7a81   nginx     "/docker-entrypoint.…"   23 minutes ago   Up 23 minutes               80/tcp    sharp_ride
+eccf0ea474a0   nginx     "/docker-entrypoint.…"   23 minutes ago   Exited (0) 21 minutes ago             thirsty_meitner
+73bca720225f   nginx     "/docker-entrypoint.…"   33 minutes ago   Up 14 minutes               80/tcp    dreamy_brattain
+REPOSITORY   TAG       IMAGE ID       CREATED      SIZE
+nginx        latest    e0c9858e10ed   2 days ago   188MB
+[1m[7m%[27m[1m[0m                                                                                             ]2;overlord@Blasterx7:~/Ressources/cours/Devops-docker]1;..Devops-docker]7;file://Blasterx7/home/overlord/Ressources/cours/Devops-docker\[0m[27m[24m[J
+~/Ressources/cours/Devops-docker
+[32m☺[39m  [K[75C[37m  [01;30mmain [37m8902b67[00m[00m[39m[89D[?1h=[?2004heexit[?1l>[?2004l
+]2;exit]1;exit
+Script done on 2024-06-24 01:27:56+01:00 [COMMAND_EXIT_CODE="0"]
